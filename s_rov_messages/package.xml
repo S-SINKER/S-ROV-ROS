@@ -1,0 +1,13 @@
+<package>
+  <name>s_rov_messages</name>
+  <version>0.0.0</version>
+  <description>
+    S-ROV message package
+  </description>
+  <maintainer email="dydwo92@snu.ac.kr">YongJae Kim</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>message_generation</build_depend>
+  <run_depend>message_runtime</run_depend>
+</package>
