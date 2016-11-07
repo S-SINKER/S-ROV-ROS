@@ -1,6 +1,6 @@
-uint8 pwm1
-uint8 pwm2
-uint8 pwm3
-uint8 pwm4
-uint8 pwm5
-uint8 pwm6
+uint8 motor1
+uint8 motor2
+uint8 motor3
+uint8 motor4
+uint8 ch5
+uint8 led
